@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://complejo-de-cabanas-pasos-del-atardecer.vercel.app/sitemap.xml
