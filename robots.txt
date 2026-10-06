@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://complejo-de-cabanas-pasos-del-atardecer.vercel.app/sitemap.xml
+Sitemap: https://complejo-de-cabanas-pasos-del-atardecer-crnj3n32h-makuke.vercel.app/sitemap.xml
